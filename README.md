@@ -27,7 +27,7 @@ Other Tools: Excel (Advanced), Google Sheets, Git & GitHub
 
 - Tech Used: Excel, SQL for (EDA), Power Bi.
 
-Another interesting project i worked on
+Another interesting project i worked with is Google Play analysis on Android App Market.
 
 - Tech Used: Microsoft Excel, SQL, Power BI, etc.
 
