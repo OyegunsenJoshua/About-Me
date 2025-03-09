@@ -4,11 +4,11 @@ Hello, I'm Oyegunsen Babatunde Joshua, I'm a passionate Data Analyst with a stro
 
 🛠 Skills & Tools
 
-Programming: Python Pandas, NumPy, Matplotlib, Seaborn
+- Programming: Python Pandas, NumPy, Matplotlib, Seaborn
 
-Data Visualization:  Power BI, Matplotlib.
+- Data Visualization:  Power BI, Matplotlib.
 
-Databases: MySQL
+- Databases: MySQL
 
 Other Tools: Excel (Advanced), Google Sheets, Git & GitHub
 
@@ -21,7 +21,7 @@ Other Tools: Excel (Advanced), Google Sheets, Git & GitHub
 
 1️⃣ Fashion Sales Analysis
 
-Tech Used: Excel, Power Bi.
+- Tech Used: Excel, Power Bi.
 
 2️⃣ New York Air Bnb Analysis
 
