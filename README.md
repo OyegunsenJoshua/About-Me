@@ -14,7 +14,7 @@ Other Tools: Excel (Advanced), Google Sheets, Git & GitHub
 
 📊 What I Do
 
-- I am the link between your business, company datasets and forecasting insights for informed decision making with skills like Excel, SQL, Python (if needed for large data automation) and Power Bi to visualize my Directed insights to solve problems and for story telling.
+- I am the link between your business, company datasets in forecasting insights for informed decision making with skills like Excel, SQL, Python (Large data automation) and Power Bi to visualize my insights to solve problems and for story telling.
 
 
 📂 Projects
