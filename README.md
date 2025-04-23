@@ -1,6 +1,6 @@
 # About-Me
 
-Hello, I'm Oyegunsen Babatunde Joshua, I'm a passionate Data Analyst with a strong background in transforming raw data into actionable insights. I specialize in data visualization, statistical analysis, and business intelligence to help drive data-driven decision-making.
+Hello, I'm Oyegunsen Babatunde Joshua, A passionate Data Analyst with a strong background in transforming raw data into actionable insights. I specialize in data visualization, statistical analysis, and business intelligence to help drive data-driven decision-making.
 
 🛠 Skills & Tools
 
