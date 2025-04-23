@@ -19,17 +19,18 @@ Other Tools: Excel (Advanced), Google Sheets, Git & GitHub
 
 📂 Projects
 
-1️⃣ Fashion Sales Analysis
 
-- Tech Used: Excel, Power Bi.
+1️⃣ Marketing Campaign Analysis
+
+- Tools Used: SQL Server, Power Bi, MIcrosoft Office tools .
 
 2️⃣ New York Air Bnb Analysis
 
-- Tech Used: Excel, SQL for (EDA), Power Bi.
+- Tools Used: Excel, SQL for (EDA), Power Bi.
 
 Another interesting project i worked with is Google Play analysis on Android App Market.
 
-- Tech Used: Microsoft Excel, SQL, Power BI, etc.
+- Tool Used: Microsoft Excel, SQL, Power BI, etc.
 
 📫 Let's Connect!
 
